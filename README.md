@@ -1,2 +1,3 @@
 # PlantStore
-<b>The Potted leaf</b>-online plant store 
+<b>The Potted Leaf</b>-online plant store 
+
